@@ -1,6 +1,6 @@
 ### Olá ! Eu sou o Fabrício, seja bem vindo  (ಠ‿ಠ)
 
-                                                  -//-      ⛺ Nature|Tech 👾      -//-
+                                               -//-      ⛺ Nature|Tech 👾      -//-
 - 👨‍💻 Hoje trabalho como suporte técnico
 - 🧠 Estudando Análise e Desenvolvimentos de Sistemas
 
