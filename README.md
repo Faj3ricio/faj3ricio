@@ -14,8 +14,8 @@
   <img align="center" alt="Bicio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Bicio-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
     <img align="center" alt="Bicio-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-     <img align="center" alt="Bicio-Anaconda" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
-      <img align="center" alt="Bicio-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+     <img align="center" alt="Bicio-Python" height="50" width="60" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+      <img align="center" alt="Bicio-Azure" height="50" width="60" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
      <img align="center" alt="Bicio-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Bicio-Google" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg">
    <img align="right" alt="Bicio-" height="150" style="border-radius:50px;"          src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
