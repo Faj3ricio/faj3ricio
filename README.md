@@ -1,8 +1,9 @@
 ### Olá ! Eu sou o Fabrício, seja bem vindo  (ಠ‿ಠ)
 
                                                -//-      ⛺ Nature|Tech 👾      -//-
-- 👨‍💻 Hoje trabalho como suporte técnico
-- 🧠 Estudando Análise e Desenvolvimentos de Sistemas
+- 👨‍💻 Hoje trabalho como Suporte Técnico.
+- 🧠 Estudando Análise e Desenvolvimentos de Sistemas.
+- 🤖 Focando meus estudos em DataScience I.A e RPA.
 
 
 <div align="center">
