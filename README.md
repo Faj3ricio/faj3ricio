@@ -12,7 +12,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bicio-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg">
+  <img align="center" alt="Bicio-Julia" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg">
    <img align="center" alt="Bicio-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
     <img align="center" alt="Bicio-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      <img align="center" alt="Bicio-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
