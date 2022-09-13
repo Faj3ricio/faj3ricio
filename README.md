@@ -19,11 +19,11 @@
       <img align="center" alt="Bicio-NumPy" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
      <img align="center" alt="Bicio-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Bicio-TensorFlow" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
-   <img src="https://tenor.com/view/numerics-glitchcraft-glitch-gif-18060484" alt="Bicio-Gif" style="width:48px;height:48px;">   
 </div>
-  
-  ##
-  
+ <div>
+ 
+
+  </div>
   <div>
    
   <a href="https://instagram.com/faj3ricio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
