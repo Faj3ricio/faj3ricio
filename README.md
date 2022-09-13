@@ -16,7 +16,7 @@
    <img align="center" alt="Bicio-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
     <img align="center" alt="Bicio-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      <img align="center" alt="Bicio-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-      <img align="center" alt="Bicio-NumPy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+      <img align="center" alt="Bicio-NumPy" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
      <img align="center" alt="Bicio-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Bicio-TensorFlow" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
    <img align="right" alt="Bicio-" height="150" style="border-radius:50px;"          src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
