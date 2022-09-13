@@ -19,7 +19,7 @@
       <img align="center" alt="Bicio-NumPy" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
      <img align="center" alt="Bicio-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Bicio-TensorFlow" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
-   <img src="https://giphy.com/embed/SVgCHJ2n35EA6XFPpO" alt="Computer man" style="width:48px;height:48px;">   
+   <img src="https://tenor.com/view/numerics-glitchcraft-glitch-gif-18060484" alt="Bicio-Gif" style="width:48px;height:48px;">   
 </div>
   
   ##
