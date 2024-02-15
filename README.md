@@ -1,9 +1,9 @@
 ### Olá ! Eu sou o Fabrício, seja bem vindo  (ಠ‿ಠ)
 
                                                -//-      ⛺ Nature|Tech 👾      -//-
-- 👨‍💻 Analista de Dados | Desenvolvedor RPA Junior | Desenvolvedor Back-End | Python | UiPath | Power BI.
+- 👨‍💻 Analista de Dados| Python| Power BI | SQL.
 - 🧠 Estudando Análise e Desenvolvimentos de Sistemas.
-- 🤖 Focando meus estudos em DataScience I.A e RPA.
+- 🤖 Focando meus estudos para se um especialista em dados.
 
 
 <div align="center">
